@@ -1,3 +1,7 @@
+---
+layout: default
+---
+
 # Jason's AI Systems Portfolio
 
 Designing and shipping production-grade AI systems that replace manual operations.
@@ -79,4 +83,5 @@ jasons_portfolio/
 
 ---
 
-*Last updated: [12/12/2025]*
+*Last updated: [Date]*
+

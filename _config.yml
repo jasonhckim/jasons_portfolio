@@ -1,0 +1,23 @@
+# Jekyll configuration for GitHub Pages
+# Minimal setup for markdown-driven portfolio
+
+title: Jason's AI Systems Portfolio
+description: Production-grade AI systems that replace manual operations
+theme: minima
+
+# Exclude from processing
+exclude:
+  - .gitignore
+  - .github/
+  - README.md
+
+# Markdown settings
+markdown: kramdown
+kramdown:
+  input: GFM
+  hard_wrap: false
+
+# Site settings
+baseurl: ""
+url: ""
+
