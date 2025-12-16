@@ -23,8 +23,14 @@
 
 3. **Wait for Deployment**
    - GitHub Pages will build and deploy automatically
-   - Your site will be available at: `https://[username].github.io/jasons_portfolio/`
+   - Your site will be available at: `https://jasonhckim.github.io/jasons_portfolio/`
    - First deployment may take 2-5 minutes
+   - Check deployment status in: Repository → Actions tab
+
+4. **Share Your Portfolio**
+   - **Direct URL:** `https://jasonhckim.github.io/jasons_portfolio/`
+   - **Resume Link:** `https://jasonhckim.github.io/jasons_portfolio/assets/resume.pdf`
+   - Add to LinkedIn profile, email signature, or business cards
 
 ### Adding a New AI System Case Study
 

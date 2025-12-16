@@ -1,8 +1,10 @@
 # Jekyll configuration for GitHub Pages
-# Minimal setup for markdown-driven portfolio
+# Professional portfolio for Director of E-commerce | AI Engineering
 
-title: Jason's AI Systems Portfolio
-description: Production-grade AI systems that replace manual operations
+title: Jason Kim | Director of E-commerce & AI Engineering
+description: Production-grade AI systems that automate e-commerce operations, reduce costs, and drive revenue growth. Showcasing real-world AI implementations in fashion wholesale and retail.
+author: Jason Kim
+email: jasonhckim@gmail.com
 theme: minima
 
 # Exclude from processing

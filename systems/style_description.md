@@ -1,5 +1,9 @@
 # Fashion Product Description Generator
 
+**Status:** Production | **Date:** 2024 | **Impact:** 95%+ time reduction, 4-8 hours → 5-10 minutes per catalog
+
+---
+
 Automates the generation of SEO-optimized product titles and descriptions for wholesale fashion catalogs, replacing manual copywriting with AI-powered vision analysis and structured output.
 
 ## Problem

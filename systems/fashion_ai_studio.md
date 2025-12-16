@@ -1,5 +1,9 @@
 # Fashion AI Studio
 
+**Status:** Production | **Date:** 2024 | **Impact:** 94% time & cost reduction, 8.5 min → 0.5 min per variant
+
+---
+
 Production-grade AI system that automates fashion product image generation, replacing traditional photography workflows for color variants, fabric swaps, and editorial styling.
 
 ## Problem

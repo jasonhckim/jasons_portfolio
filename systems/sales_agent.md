@@ -1,5 +1,9 @@
 # Post-Purchase Recommendation Email System
 
+**Status:** Production | **Date:** 2024 | **Impact:** Automated personalized follow-ups, 15-30 min saved per order
+
+---
+
 Automates personalized line sheet delivery to wholesale customers immediately after order placement, replacing manual follow-up emails with AI-generated content and data-driven product recommendations.
 
 ## Problem

@@ -1,82 +1,124 @@
-# Jason's AI Systems Portfolio
+# Jason Kim | Director of E-commerce & AI Engineering
 
-Designing and shipping production-grade AI systems that replace manual operations.
+> **Production-grade AI systems that automate e-commerce operations, reduce costs, and drive revenue growth**
 
----
-
-## Overview
-
-This portfolio showcases real-world AI systems rather than experimental demos. Each case study emphasizes system architecture, constraints, decision-making, and measurable impact.
-
-**Platform:** GitHub Pages | **Cost:** $0 | **Format:** Markdown-driven static site
+[![Portfolio Site](https://img.shields.io/badge/Portfolio-Live-blue)](https://jasonhckim.github.io/jasons_portfolio/)
+[![Resume](https://img.shields.io/badge/Resume-PDF-red)](./assets/resume.pdf)
 
 ---
 
-## Design Principles
+## 🚀 Portfolio
 
-- **Minimalist, documentation-first aesthetic** — Engineering clarity over visual flair
-- **Diagrams over decoration** — Architecture visuals that explain system design
-- **Clear hierarchy and scannability** — Value communicated in under 60 seconds
-- **Production focus** — Real systems with real constraints and real impact
+**👉 [View Full Portfolio Site →](https://jasonhckim.github.io/jasons_portfolio/)**
 
----
-
-## AI Systems
-
-### [System Template](./systems/template.md)
-
-*Use this template when adding new AI system case studies.*
+This repository contains my portfolio showcasing real-world AI systems I've designed and implemented in production environments. Each case study demonstrates end-to-end system architecture, strategic AI implementation, and measurable business impact.
 
 ---
 
-## Case Study Structure
+## 💼 About
 
-Each AI system case study includes:
+**Jason Kim** | Director of E-commerce | AI Engineering & Implementation
 
-1. **Problem** — What manual operation is being replaced?
-2. **Constraints** — Technical, business, and operational limitations
-3. **System Architecture** — How the system works end-to-end
-4. **AI vs Deterministic Logic** — When and why AI is used vs. rules
-5. **Failure Modes & Safeguards** — How the system handles edge cases
-6. **Results & Impact** — Measurable outcomes and metrics
-7. **What I'd Improve Next** — Iterative improvements and lessons learned
+I specialize in building production-grade AI systems that replace manual operations in fashion e-commerce. With nearly a decade of experience in sales operations, digital strategy, and AI/ML-driven business transformation, I focus on systems that deliver measurable ROI through automation, efficiency, and scalability.
+
+**Current Role:** Head of Showroom Operations & AI Innovation at HYFVE INC  
+**Location:** Los Angeles, California
 
 ---
 
-## Target Audience
+## 🎯 Featured AI Systems
 
-- Engineering leaders and technical founders
-- AI product and automation teams
-- Business partners evaluating real AI capability
+### 1. [AI Sales Agent System](./systems/sales_agent.md)
+**Post-Purchase Recommendation Email Automation**
+
+- ⚡ Delivers personalized line sheets within minutes of order placement
+- 💰 Eliminates 15-30 minutes of manual work per order
+- 📈 Handles unlimited concurrent orders without linear cost increase
+
+**Tech:** Python, Google Cloud Run, BigQuery, OpenAI GPT-4, Gmail API, Shopify
 
 ---
 
-## Repository Structure
+### 2. [Fashion Product Description Generator](./systems/style_description.md)
+**AI-Powered Product Copy Automation**
+
+- ⏱️ 95%+ time reduction: 4-8 hours → 5-10 minutes per 50-product catalog
+- 💵 Cost efficiency: ~$0.02-0.05 per catalog (vs. $200-400 manual)
+- 📊 100% consistency in character limits and required fields
+
+**Tech:** Python, Google Cloud Run, GPT-4o Vision, Google Sheets API, Shopify API
+
+---
+
+### 3. [Fashion AI Studio](./systems/fashion_ai_studio.md)
+**Production-Grade Product Image Generation**
+
+- ⏱️ 94% time reduction: 8.5 minutes → 0.5 minutes per color variant
+- 💰 94% cost reduction: $26.25 → $1.54 per variant
+- 🎯 E-commerce-ready output meeting brand standards
+
+**Tech:** React, TypeScript, Express.js, PostgreSQL, Google Gemini, FASHN API
+
+---
+
+## 🛠️ Technical Expertise
+
+**AI/ML:** OpenAI GPT-4, Google Gemini, Vision Models, Prompt Engineering  
+**Cloud:** Google Cloud Platform (Cloud Run, BigQuery, Cloud Storage)  
+**Languages:** Python, JavaScript, TypeScript, SQL  
+**E-commerce:** Shopify, Faire, FashionGo, Marketplace APIs  
+**Data:** BigQuery, PostgreSQL, Data Pipelines, ETL  
+**Frontend:** React, TypeScript, TanStack Query  
+**Backend:** Express.js, Flask, REST APIs, Webhooks
+
+---
+
+## 📊 Key Achievements
+
+- **20%+ Revenue Growth** through data-driven e-commerce strategies
+- **95%+ Time Savings** in product catalog processing through AI automation
+- **94% Cost Reduction** in product photography workflows
+- **Production-Grade Systems** handling thousands of transactions daily
+
+---
+
+## 📁 Repository Structure
 
 ```
 jasons_portfolio/
-├── README.md          # Portfolio homepage
-├── systems/           # Individual AI system case studies
-├── diagrams/          # Architecture visuals
-└── assets/            # Screenshots and outputs
+├── index.md              # Portfolio homepage (GitHub Pages)
+├── systems/              # AI system case studies
+│   ├── sales_agent.md
+│   ├── style_description.md
+│   └── fashion_ai_studio.md
+├── assets/               # Resume and supporting materials
+│   └── resume.pdf
+├── diagrams/             # Architecture visuals
+└── _config.yml           # Jekyll configuration
 ```
 
 ---
 
-## Success Metrics
+## 📞 Connect
 
-- Portfolio communicates value in under 60 seconds
-- At least one system case study is fully read by reviewers
-- Positive feedback on clarity of system design
-
----
-
-## Future Enhancements
-
-- Add Loom walkthrough videos
-- Introduce confidence scoring visuals
-- Optional migration to Framer without content rewrite
+- **Email:** jasonhckim@gmail.com
+- **LinkedIn:** [linkedin.com/in/jasonhckim](https://www.linkedin.com/in/jasonhckim)
+- **Phone:** 213-215-9252
 
 ---
 
-*Last updated: [12/12/2025]*
+## 🎨 Design Philosophy
+
+Each system case study follows a structured approach:
+
+1. **Problem** — What manual operation is being replaced?
+2. **Constraints** — Technical, business, and operational limitations
+3. **System Architecture** — End-to-end system design
+4. **AI vs Deterministic Logic** — Strategic decision-making framework
+5. **Failure Modes & Safeguards** — Production-grade reliability measures
+6. **Results & Impact** — Quantified business outcomes
+7. **Future Improvements** — Iterative enhancement roadmap
+
+---
+
+*Last updated: December 2024*
