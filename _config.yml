@@ -20,6 +20,17 @@ kramdown:
   hard_wrap: false
 
 # Site settings
-baseurl: ""
-url: ""
+baseurl: "/jasons_portfolio"
+url: "https://jasonhckim.github.io"
+
+# Navigation - control which pages appear in header
+header_pages:
+  - systems/sales_agent.md
+  - systems/style_description.md
+  - systems/fashion_ai_studio.md
+
+# Custom CSS
+plugins:
+  - jekyll-feed
+  - jekyll-sitemap
 
