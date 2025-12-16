@@ -102,6 +102,9 @@ https://jasonhckim.github.io/jasons_portfolio/systems/style_description.html
 
 Fashion AI Studio:
 https://jasonhckim.github.io/jasons_portfolio/systems/fashion_ai_studio.html
+
+Shopify CRO Analyzer:
+https://jasonhckim.github.io/jasons_portfolio/systems/website_optimizer.html
 ```
 
 ### Resume

@@ -61,6 +61,18 @@ I specialize in building production-grade AI systems that replace manual operati
 
 ---
 
+### 4. [Shopify CRO Analyzer](./systems/website_optimizer.md)
+**Automated Conversion Optimization Diagnostics**
+
+- ⏱️ 95%+ time reduction: 4-8 hours → 5 minutes per analysis cycle
+- 💰 Cost efficiency: <$1/month vs. $200-500/month for SaaS alternatives
+- 📈 Analyzes all products, orders, customers (not just samples)
+- 🔄 Can run daily vs. monthly manual audits
+
+**Tech:** Python, Google Cloud Functions, Shopify Admin API, Gmail API
+
+---
+
 ## 🛠️ Technical Expertise
 
 **AI/ML:** OpenAI GPT-4, Google Gemini, Vision Models, Prompt Engineering  
@@ -90,7 +102,8 @@ jasons_portfolio/
 ├── systems/              # AI system case studies
 │   ├── sales_agent.md
 │   ├── style_description.md
-│   └── fashion_ai_studio.md
+│   ├── fashion_ai_studio.md
+│   └── website_optimizer.md
 ├── assets/               # Resume and supporting materials
 │   └── resume.pdf
 ├── diagrams/             # Architecture visuals

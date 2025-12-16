@@ -28,6 +28,7 @@ header_pages:
   - systems/sales_agent.md
   - systems/style_description.md
   - systems/fashion_ai_studio.md
+  - systems/website_optimizer.md
 
 # Custom CSS
 plugins:

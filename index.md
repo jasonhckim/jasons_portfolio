@@ -76,6 +76,21 @@ Automates fashion product image generation for color variants, fabric swaps, and
 
 ---
 
+### 📊 [Shopify CRO Analyzer](./systems/website_optimizer.md)
+**Automated Conversion Optimization Diagnostics**
+
+Automated diagnostic system that replaces manual store performance audits by analyzing Shopify data and generating actionable conversion optimization reports.
+
+**Key Impact:**
+- ⏱️ **Time Savings:** 4-8 hours → 5 minutes per analysis cycle (95%+ reduction)
+- 💰 **Cost Efficiency:** <$1/month vs. $200-500/month for SaaS alternatives
+- 📈 **Coverage:** Analyzes all products, orders, customers (not just samples)
+- 🔄 **Frequency:** Can run daily vs. monthly manual audits
+
+**Tech Stack:** Python, Google Cloud Functions, Shopify Admin API, Gmail API, Secret Manager
+
+---
+
 ## Design Philosophy
 
 These systems represent a **production-first approach** to AI implementation:
